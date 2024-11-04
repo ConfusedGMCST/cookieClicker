@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # cookieclicker
 
 <img src="img/perfectCookie.png" width="128">
@@ -52,3 +53,7 @@ From the root directory :
 #### 5. Report update here :)
 
 If you happen to update, please make a pull request for others to benefit, thanks!
+=======
+# COOKIE CLICKER
+### But without ads
+>>>>>>> 626647be67331073c316b9c3aac2f3fef288cb80
